@@ -29,7 +29,7 @@ $('.companies__slider').slick({
   slidesToShow: 3,
   slidesToScroll: 3,
   arrows: false,
-  dots: true,
+  dots:true,
   speed: 1500,
   responsive: [
     {
@@ -42,6 +42,7 @@ $('.companies__slider').slick({
     {
       breakpoint: 768,
       settings: {
+        speed: 1000,
         slidesToShow: 2,
         slidesToScroll: 2
       }
@@ -49,6 +50,7 @@ $('.companies__slider').slick({
     {
       breakpoint: 578,
       settings: {
+        speed: 750,
         slidesToShow: 1,
         slidesToScroll: 1
       }
