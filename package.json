@@ -1,0 +1,52 @@
+{
+  "_from": "wp_theme_starter",
+  "_id": "wp_theme_starter@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-B/cwhBGPMSYC/z7wZIcFh9MhAAv9UpR3RLRG3t2RiL1DFJ/lxZlG3vJsvmY98lnUCfUOddMTKbRoz6Nh5Q1Nbw==",
+  "_location": "/wp_theme_starter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "wp_theme_starter",
+    "name": "wp_theme_starter",
+    "escapedName": "wp_theme_starter",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/wp_theme_starter/-/wp_theme_starter-1.1.1.tgz",
+  "_shasum": "4b24822272f17d2205257d70d76d6b0eb7840c5b",
+  "_spec": "wp_theme_starter",
+  "_where": "D:\\MAMP\\htdocs\\NumberOneTesting",
+  "author": {
+    "name": "mediol"
+  },
+  "bugs": {
+    "url": "https://github.com/mediol/wp-theme-starter.git/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "The best package in the world",
+  "homepage": "https://github.com/mediol/wp-theme-starter.git#readme",
+  "keywords": [
+    "wp",
+    "starter",
+    "wp theme"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "wp_theme_starter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mediol/wp-theme-starter.git"
+  },
+  "scripts": {
+    "test": "command for testing package"
+  },
+  "version": "1.1.1"
+}
